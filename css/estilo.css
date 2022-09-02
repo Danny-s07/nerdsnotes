@@ -45,7 +45,7 @@ p
   }
  ::selection{
     color: #fff;
-    background: #618cf8;
+    background: #161718;
   }
   .wrapper{
     margin: 50px;
@@ -75,14 +75,14 @@ p
   .add-box .icon{
     height: 78px;
     width: 78px;
-    color: #88ABFF;
+    color: #101011;
     font-size: 40px;
     border-radius: 50%;
     justify-content: center;
-    border: 2px dashed #88ABFF;
+    border: 2px dashed #0d0d0e;
   }
   .add-box p{
-    color: #88ABFF;
+    color: #050505;
     font-weight: 500;
     margin-top: 20px;
   }
@@ -220,7 +220,7 @@ p
     font-weight: 500;
   }
   .content header i{
-    color: #8b8989;
+    color: #1a1919;
     cursor: pointer;
     font-size: 23px;
   }
@@ -261,7 +261,7 @@ p
     cursor: pointer;
     font-size: 17px;
     border-radius: 4px;
-    background: #6A93F8;
+    background: #191a1d;
   }
 /* final configuracoes gerais para as paginas de trabalho e estudos */
 
