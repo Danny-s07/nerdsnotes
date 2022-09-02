@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* inicio posicionamento da estrutura home */
+body
+{
+    margin-top: 100px;
+}
+.container,h1
+{
+    text-align: center;
+    
+}
+#estudos,#trabalho
+{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    line-height: 99px;
+    font-size: 23px;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(224, 222, 222, 0.24);
+}
+
+.linkhome
+{
+    text-decoration: none;
+    color: black;
+}
+
+/* final posicionamento da estrutura home */
